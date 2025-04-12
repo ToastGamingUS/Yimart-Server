@@ -1,1 +1,1 @@
-["totally not crashing this os","crashy"]
+["totally not crashing this os","crashy","Live Profile Viewer"]
